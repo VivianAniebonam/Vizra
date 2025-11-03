@@ -63,7 +63,6 @@ You can preview our Figma designs below:
 -  [Landing Page (Desktop)](https://www.figma.com/)  
 - [Mobile App (User Flow)](https://www.figma.com/)  
 
-*(You can replace these links with your real Figma URLs later.)*
 
 ---
 
